@@ -1,0 +1,47 @@
+nav {
+  height: 50px;
+  background-color: lightgrey;
+}
+.inline-block {
+  padding: 15px;
+  display: inline-block;
+  background-color: #545454;
+  color: white;
+}
+.block_element {
+  display: inline-block;
+ 
+}
+.left {
+  float: left;
+  background-color: lightblue;
+  height: 500px;
+  width: 29%;
+  text-align: center;
+}
+.right {
+  float: left;
+  background-color: lightgreen;
+  height: 500px;
+  width: 70%;
+  text-align: center;
+}
+.upper {
+  display: inline-block;
+  background-color: orange;
+  width: 100%;
+}
+.lower {
+  text-align:left;
+  background-color:azure;
+}
+
+.card {
+  display: inline-block;
+  background-color: #C6C6C6;
+  border-radius: 5px;
+  height: 200px;
+  width: 150px;
+  margin: 35px;
+  margin-top: 50px;
+}
